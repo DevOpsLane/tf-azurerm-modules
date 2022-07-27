@@ -1,2 +1,2 @@
-# tf-azurerm-linux
-Terraform Module ARM VM linux
+# tf-azurerm-modules
+Terraform Module for Azure
